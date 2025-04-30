@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>    
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="60px" src="https://westcom.ru/themes/2024/img/logo.png"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#ff7b00" font-family="helvetica">WESTCOM</mj-text>
+        <mj-text align="center" font-size="13px" color="#ff7b00" font-family="helvetica">Торговое оборудование</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="170px" src="https://пеннаягильдия.рус/wp-content/themes/foamyguild-v3-0/img/logo-icon.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" align="center" font-size="24px" color="#000" font-family="helvetica">Пивной ресторан </br>"Пенная гильдия"</mj-text>
+        <mj-text align="center" font-size="15px" color="#000" font-family="helvetica">Компания Westcom объявляет старт продаж торгового оборудования для открытия бара-ресторана "Пенная гильдия"</mj-text>
+        <mj-button href="///////////////////////" align="center" background-color="#ff7b00" border-radius="40px" font-family="helvetica" font-size="12px">Читать подробнее</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="185px" border-radius="100%" src="https://westcom.ru/upload/products/23829/381_general_stoyka_barnaya_n1_large.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#000" font-family="helvetica">Стойка барная</mj-text>
+        <mj-text align="center" font-size="13px" color="#000" font-family="helvetica">Высота : 1600мм </br>Ширина : 3000мм </br>Глубина : 500мм </br>Длина : 3000мм</mj-text>
+        <mj-button href="https://westcom.ru/restoran_razlivnogo_piva_pennaya_gildiya/stoyka_barnaya_n1.html" background-color="#ff7b00" border-radius="40px" font-family="helvetica" font-size="12px">Подробнее</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="185px" border-radius="100%" src="https://westcom.ru/upload/products/23831/537_general_prilavok_dlya_snekov_n1_large.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#000" font-family="helvetica">Прилавок для снеков</mj-text>
+        <mj-text align="center" font-size="13px" color="#000" font-family="helvetica">Высота : 1600мм </br>Ширина : 1400мм </br>Глубина : 400мм </br>Длина : 1400мм</mj-text>
+        <mj-button href="https://westcom.ru/restoran_razlivnogo_piva_pennaya_gildiya/prilavok_dlya_snekov_n1.html" background-color="#ff7b00" border-radius="40px" font-family="helvetica" font-size="12px">Подробнее</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="185px" border-radius="100%" src="https://westcom.ru/upload/products/23832/966_general_stol_barnyy_n1_large.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#000" font-family="helvetica">Стол барный</mj-text>
+        <mj-text align="center" font-size="13px" color="#000" font-family="helvetica">Высота : 800мм </br>Ширина : 1200мм </br>Глубина : 600мм </br>Длина : 1200мм</mj-text>
+        <mj-button href="https://westcom.ru/restoran_razlivnogo_piva_pennaya_gildiya/stol_barnyy_n1.html" background-color="#ff7b00" border-radius="40px" font-family="helvetica" font-size="12px">Подробнее</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ff7b00">
+        <mj-column>
+            <mj-text font-weight="bold" align="center" font-size="24px" color="#000" font-family="helvetica">Westcom </br>Торговое оборудование</mj-text>
+            <mj-text align="center" font-size="15px" color="#000" font-family="helvetica">+7 495 234-32-10</br>+7 800 301-02-66</br>info@westcom.ru</mj-text>
+            <mj-button href="https://westcom.ru/?utm_source=html-mail&utm_content=tsvetkov" align="center" background-color="#f3f3f3" color="#000" border-radius="40px" font-family="helvetica" font-size="12px">Наш сайт</mj-button>
+        </mj-column>
+    </mj-section>  
+  </mj-body>
+</mjml>

@@ -1,0 +1,54 @@
+<mjml>
+  <mj-body background-color="#d7dde5">    
+    <mj-section background-color="#ffffff" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://westcom.ru/themes/2024/img/logo.png" alt="OnePage" padding-bottom="0px" padding-top="10px" height="40px" width="40px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" padding-bottom="0px" padding-top="10px"><a href="https://westcom.ru/?utm_source=html-mail&utm_content=tsvetkov" style="text-decoration: none; color: inherit;">Сайт</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a href="https://westcom.ru/Punkt_vidachi_zakazov_yandex_market/?utm_source=blog_email&utm_content=tsvetkov" style="text-decoration: none; color: inherit;">Каталог</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+          <a href="https://westcom.ru/blog/novaya_mebel_dlya_pvz_yandeks_market.html?utm_source=blog_email&utm_content=tsvetkov" style="text-decoration: none; color: inherit;">Новости</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://avatars.mds.yandex.net/get-yablogs/61002/file_1733989144482/orig" vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="20px" color="white" padding-bottom="30px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">В продаже мебель для ПВЗ</span><br /><br /><span style="color: #e85034"></span></mj-text>
+        <mj-button align="center" background-color="#e85034" color="#fff" border-radius="24px" href="https://westcom.ru/Punkt_vidachi_zakazov_yandex_market/?utm_source=blog_email&utm_content=tsvetkov" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">ПОДРОБНЕЕ</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://westcom.ru/upload/products/23723/761_gallery_Kassovaya_stoyka_large.jpg" alt="" width="350px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Кассовая стойка</span><br /><br />Высота : 1050мм <br />Ширина : 1500мм <br />Глубина : 600мм <br />Длина : 1500мм </mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://westcom.ru/upload/products/23724/687_general_Stol_raspakovki_large.jpg" alt="" width="350px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Стол распаковки</span><br /><br />Высота : 800мм <br />Ширина : 1000мм <br />Глубина : 600мм <br />Длина : 1000мм</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://westcom.ru/upload/products/23726/365_general_Primerochnaya_large.jpg" alt="" width="350px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #e85034">Примерочная</span><br /><br />Высота : 2300мм <br />Ширина : 1200мм <br />Глубина : 1200мм <br />Длина : 1200мм</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="https://westcom.ru/upload/products/23727/911_general_Dop_mebel_large.jpg" alt="" width="350px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #e85034">Доп. мебель (Тумбочка)</span><br /><br />Высота : 450мм <br />Ширина : 400мм <br />Глубина : 400мм <br />Длина : 400мм</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e85034" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="20px" padding-bottom="10px">Хотите открыть свой пункт выдачи?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="16px" padding-bottom="25px">В продаже появилась мебель для пунктов выдачи заказов «Яндекс Маркет» по новым стандартам</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="https://westcom.ru/upload/blog/5.png" alt="" padding-bottom="20px" padding-top="20px"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text align="left" color="#9da3a3" font-size="11px" padding-bottom="25px" padding-top="25px"><span style="font-weight: bold; font-size: 14px; color: #45474e">Почему стоит выбрать нашу мебель?</span><br /><br />- Короткие сроки изготовления. <br />- Приятные цены. <br />- Соответствие стандартам «Яндекс Маркет» <br />- Прочность и долговечность <br />-  Быстрая и легкая  сборка <br />- Брендирование – можем добавить логотипы.</mj-text>
+        <mj-button align="left" background-color="#e85034" color="#fff" border-radius="24px" font-size="11px" href="https://westcom.ru/Punkt_vidachi_zakazov_yandex_market/?utm_source=blog_email&utm_content=tsvetkov" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">КУПИТЬ</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

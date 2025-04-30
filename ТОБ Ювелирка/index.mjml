@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Kanit', 'Helvetica', 'Arial', sans-serif"></mj-all>
+      <mj-button background-color="#2B2B2B"></mj-button>
+      <mj-text color="#2B2B2B"></mj-text>
+    </mj-attributes>
+    <mj-font href="https://fonts.googleapis.com/css?family=Kanit:normal,italic,bold&display=swap" name="Kanit"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css?family=Cabin:normal,italic,bold&display=swap" name="Cabin"></mj-font>
+  </mj-head>
+  <mj-body>
+    <mj-section background-size="cover" background-color="linear-gradient(#1ba39c, #ffffff)" padding-bottom="100px" padding-left="40px" padding-right="40px" padding-top="48px" padding="40px">
+      <mj-column padding="0">
+        <mj-image align="left" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/Logo%20tob.PNG?raw=true" width="140px"></mj-image>
+        <mj-spacer height="96px"></mj-spacer>
+        <mj-text color="#fff" font-size="56px" line-height="1.1" padding="0px">
+          <strong>Новая коллекция<br />DIAMOND</strong>
+        </mj-text>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text color="#fff" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="20px" line-height="1.6" padding="0px">Новая колекция торгового оборудования для ювелирных магазинов</mj-text>
+        <mj-spacer height="40px"></mj-spacer>
+        <mj-button align="left" border-radius="40px" font-size="24px" line-height="1.75" padding="0px">
+          <strong>Подробнее</strong>
+        </mj-button>
+        <mj-spacer height="48px"></mj-spacer>
+        <mj-image padding="0px" src="https://foni.papik.pro/uploads/posts/2024-09/foni-papik-pro-asag-p-kartinki-brilliant-na-prozrachnom-fone-1.png" width="300px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="16px" padding-left="40px" padding-right="40px" padding-top="32px" padding="40px" background-color="linear-gradient(#ffffff,rgb(255, 255, 255), #ffffff)">
+      <mj-column padding="0">
+        <mj-text font-size="40px" line-height="1.25" padding="0px">
+          <strong>New features you&rsquo;ll love</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="24px" padding-left="20px" padding-right="20px" padding-top="16px" padding="40px" background-color="linear-gradient(#ffffff, #1ba39c)">
+      <mj-column padding="0">
+        <mj-image align="left" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://tob.ru/files/products/29918/general-29918-m.jpeg"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          <strong>Feature 1</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        </mj-text>
+        <mj-button align="center" border-radius="40px" font-size="16px" line-height="1.75" padding="10px">
+          <strong>Купить</strong>
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image align="left" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://tob.ru/files/products/30081/general-30081-m.jpeg"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          <strong>Feature 1</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        </mj-text>
+        <mj-button align="center" border-radius="40px" font-size="16px" line-height="1.75" padding="10px">
+          <strong>Купить</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="36px" padding-left="20px" padding-right="20px" padding-top="24px" padding="40px" background-color="linear-gradient( #1ba39c, #ffffff)">
+      <mj-column padding="0">
+        <mj-image align="left" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://tob.ru/files/products/30092/general-30092-m.jpeg"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          <strong>Feature 1</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        </mj-text>
+        <mj-button align="center" border-radius="40px" font-size="16px" line-height="1.75" padding="10px">
+          <strong>Купить</strong>
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image align="left" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://tob.ru/files/products/30085/general-30085-m.jpeg"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          <strong>Feature 1</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        </mj-text>
+        <mj-button align="center" border-radius="40px" font-size="16px" line-height="1.75" padding="10px">
+          <strong>Купить</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="linear-gradient( #ffffff, #ffffff )">
+      <mj-column padding="0">
+        <mj-spacer height="36px"></mj-spacer>
+      </mj-column>
+    </mj-section>    
+    <mj-section padding-bottom="72px" padding-left="30px" padding-right="30px" padding-top="72px" padding="20px" background-color="linear-gradient( #ffffff, #1ba39c)">
+      <mj-column padding="0">
+        <mj-image align="left" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/Logo%20tob.PNG?raw=true" width="100px"></mj-image>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-social align="right" font-size="15px" icon-padding="6px" icon-size="34px" inner-padding="5px" mode="horizontal" padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="10px">
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/facebook.png" alt="https://www.facebook.com/" background-color="#5B5B5B" border-radius="32px" href="https://www.facebook.com/" name="facebook-noshare" title="https://www.facebook.com/"></mj-social-element>
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/google-plus.png" alt="https://www.google.com/" background-color="#5B5B5B" border-radius="32px" href="https://www.google.com/" name="google-noshare" title="https://www.google.com/"></mj-social-element>
+          <mj-social-element src="https://cdn.getvero.com/dd-editor/ui-assets/icons/social/twitter.png" alt="https://www.twitter.com/" background-color="#5B5B5B" border-radius="32px" href="https://www.twitter.com/" name="twitter-noshare" title="https://www.twitter.com/"></mj-social-element>
+        </mj-social>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text align="right" color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="14px" line-height="1.5" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" padding="0px">
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br /><br />Unsubscribe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

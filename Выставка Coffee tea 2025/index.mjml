@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Kanit', 'Helvetica', 'Arial', sans-serif"></mj-all>
+      <mj-button background-color="#2B2B2B"></mj-button>
+      <mj-text color="#2B2B2B"></mj-text>
+      <mj-accordion border="none" padding="1px"/>
+      <mj-accordion-element icon-wrapped-url="https://i.imgur.com/Xvw0vjq.png" icon-unwrapped-url="https://i.imgur.com/KKHenWa.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>    
+    <mj-font href="https://fonts.googleapis.com/css?family=Kanit:normal,italic,bold&display=swap" name="Kanit"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css?family=Cabin:normal,italic,bold&display=swap" name="Cabin"></mj-font>
+  </mj-head>
+  <mj-body>
+    <mj-section background-size="cover" background-url="https://getvero.s3.amazonaws.com/uploads%2F6f361cb8c6e0b33c89cae59a1d3f944a%2Ffullsize%2F815b7c23-b205-4dc5-ae9f-57b59c4c8533-bg.png" padding-bottom="100px" padding-left="40px" padding-right="40px" padding-top="48px" padding="40px">
+      <mj-column padding="0">
+        <mj-image href="https://westcom.ru/?utm_source=html-mail&utm_content=tsvetkov" align="left" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/logopromo.png?raw=true" width="40px"></mj-image>
+        <mj-spacer height="96px"></mj-spacer>
+        <mj-text color="#fff" font-size="60px" line-height="1.1" padding="0px">
+          <strong>Coffee Tea<br />Cacao Russian Expo 2025</strong>
+        </mj-text>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text color="#fff" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="24px" line-height="1.6" padding="0px">
+          Команда Westcom приняла участие в выставке чай кофе 2025 в Темирязев центре.
+        </mj-text>
+        <mj-spacer height="40px"></mj-spacer>
+        <mj-button href="https://westcom.ru/blog/westcom_na_vystavka_coffeeteacacao.html?utm_source=email_blog&utm_medium=coffee_tea_cacao&utm_content=tsvetkov" align="left" border-radius="40px" font-size="24px" line-height="1.75" padding="0px">
+          <strong>Подробнее</strong>
+        </mj-button>
+        <mj-spacer height="48px"></mj-spacer>
+        <mj-image padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/rounded-in-photoretrica.png?raw=true" width="500px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="16px" padding-left="40px" padding-right="40px" padding-top="32px" padding="40px">
+      <mj-column padding="0">
+        <mj-text font-size="40px" line-height="1.25" padding="0px" color="#ff7b00">
+          <strong>16-18 апреля 2025 года</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="24px" padding-left="20px" padding-right="20px" padding-top="16px" padding="40px">
+      <mj-column padding="0">
+        <mj-image align="center" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/IMG_73391213.jpg?raw=true"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" color="#ff7b00">
+          <strong>Выстака Кофе чай какао</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+         Важное событие для индустрии кофе, чая, какао и шоколада.   Менеджеры WestCom провели продуктивные встречи с постоянными и новыми партнерами и  представили свои новые решения для кофейного и вендингового бизнеса.
+        </mj-text>
+      </mj-column>   
+    </mj-section>
+    <mj-section padding-bottom="36px" padding-left="20px" padding-right="20px" padding-top="24px" padding="40px">
+      <mj-column padding="0">
+        <mj-image align="center" border-radius="8px" fluid-on-mobile="true" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/123444444.png?raw=true"></mj-image>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text font-size="24px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px" color="#ff7b00">
+          <strong>Аудитория выставки – профессионалы рынка:</strong>
+        </mj-text>
+        <mj-spacer height="4px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.5" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px">
+          • поставщики  кофе, чайного сырья и какао бобов</br>
+          •	фермеры и владельцы плантаций</br>
+          •	обжарщики кофе</br>
+          •	поставщики оборудования для кофеен, кафе и баров</br> 
+          •	поставщики молока, выпечки и других ингредиентов</br>
+          •	владельцы кофеен и розницы</br>
+          •	кондитеры и шоколатье</br>
+          •	бариста и чайные мастера</br>
+          •	производители  упаковки для  кофе, чая и шоколад</br>
+        </mj-text>
+      </mj-column>     
+    </mj-section>
+    <mj-section padding-bottom="36px" padding-left="20px" padding-right="20px" padding-top="24px" padding="40px">
+      <mj-column padding="0">       
+        <mj-button href="https://westcom.ru/blog/westcom_na_vystavka_coffeeteacacao.html?utm_source=email_blog&utm_medium=coffee_tea_cacao&utm_content=tsvetkov" align="center" border-radius="40px" font-size="24px" line-height="1.75" padding="20px">
+          <strong>Читать подробнее</strong>
+        </mj-button>
+      </mj-column>     
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0">
+        <mj-spacer height="36px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0E1E0" border-radius="24px" padding="40px">
+      <mj-column padding="0">
+        <mj-text font-size="30px" line-height="1.25" padding="0px">
+          <strong>Промо код для участников</strong>
+        </mj-text>
+        <mj-spacer height="16px"></mj-spacer>        
+      <mj-section background-color="#ffffff0">
+      <mj-column> 
+        <mj-accordion>
+          <mj-accordion-element>
+            <mj-accordion-title>Ваш промокод на скидку:</mj-accordion-title>
+            <mj-accordion-text>
+              <span style="line-height:20px">
+                B139-X5TB-DPM8
+              </span>
+            </mj-accordion-text>
+          </mj-accordion-element>          
+        </mj-accordion>
+      </mj-column>
+    </mj-section>
+        <mj-spacer height="32px"></mj-spacer>
+        <mj-text color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="18px" line-height="1.6" padding="0px">
+          Для всех участников выставки Coffee Tea Cacao Expo 2025 действует скидна 5% на продукцию компании Westcom при заказе от 50 000 рублей<br /><br />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="72px" padding-left="30px" padding-right="30px" padding-top="72px" padding="20px">
+      <mj-column padding="0">
+        <mj-image href="https://westcom.ru/?utm_source=html-mail&utm_content=tsvetkov" align="left" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/logo.png?raw=true" width="48px"></mj-image>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-social align="right" font-size="15px" icon-padding="6px" icon-size="34px" inner-padding="5px" mode="horizontal" padding-bottom="0px" padding-left="5px" padding-right="5px" padding-top="0px" padding="10px">
+          <mj-social-element src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="https://t.me/westcomrubot" background-color="#5B5B5B" border-radius="32px" href="https://t.me/westcomrubot?utm_source=email&utm_medium=coffee_tea_cacao&utm_content=tsvetkov" name="facebook-noshare" title="https://t.me/westcomrubot"></mj-social-element>
+          <mj-social-element src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/150px-WhatsApp.svg.png" alt="WhatsApp" background-color="#5B5B5B" border-radius="32px" href="https://web.whatsapp.com/send/?phone=79250034101&utm_source=email&utm_medium=coffee_tea_cacao&utm_content=tsvetkov" name="google-noshare" title="https://web.whatsapp.com/send/?phone=79250034101"></mj-social-element>
+          <mj-social-element src="https://cdn-icons-png.flaticon.com/512/9412/9412954.png" alt="https://westcom.ru/subscribe/" background-color="#5B5B5B" border-radius="32px" href="https://westcom.ru/subscribe/?utm_source=email&utm_medium=coffee_tea_cacao&utm_content=tsvetkov" name="twitter-noshare" title="https://westcom.ru/subscribe/"></mj-social-element>
+        </mj-social>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text align="right" color="#5B5B5B" font-family="'Cabin', 'Helvetica', 'Arial', sans-serif" font-size="14px" line-height="1.5" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" padding="0px">
+          Westcom <br/>Торговое оборудование<br/>г. Москва, ул.Боровая д.7<br/>+7 495 234-32-10<br/>+7 800 301-02-66<br/>+7 925 003-41-01<br/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

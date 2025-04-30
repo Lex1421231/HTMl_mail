@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кофе с комфортом от Вестком</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            max-width: 900px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #784b21, #935d2a, #c78a52);
+        }
+        .container {
+            display: flex;
+            background: #f9f5f0;
+            padding: 0 25px 25px;
+            border-radius: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header {
+            display: flex;
+            position: relative;
+            margin-bottom: 20px;
+            width: 100%;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-items: center;
+        }
+        .banner-container {
+            position: relative;
+            width: 100%;
+            height: 400px;
+            overflow: hidden;
+            margin: 0 -25px 30px;
+            border-radius: 20px;            
+        }
+        .logo{
+            height: 50px;
+            width: 50px;
+        }
+        .coffee-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            display: block;
+        }
+        .imgpromo{
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .product-showcase {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 25px 0;
+        }
+        .product-image {
+            width: 45%;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #6F4E37;
+            font-size: 28px;
+            margin-top: 20px;
+            text-align: center;
+            font-weight: 700;
+        }
+        h2 {
+            color: #6F4E37;
+            font-size: 22px;
+            margin-top: 25px;
+            font-weight: 600;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .features {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 25px 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        .feature-item {
+            margin-bottom: 12px;
+            padding-left: 28px;
+            position: relative;
+            line-height: 1.5;
+        }
+        .feature-item:before {
+            content: "✓";
+            color: #6F4E37;
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #ff7b00;
+            color: white !important;
+            text-decoration: none;
+            padding: 14px 30px;
+            border-radius: 8px;
+            font-weight: bold;
+            margin: 25px 0;
+            text-align: center;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #5a3d2a;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #777777;
+            text-align: center;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 20px;
+        }
+        .highlight {
+            color: #6F4E37;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="banner-container">
+                <img src="https://i.pinimg.com/736x/e6/08/15/e60815252fe4d7c21e74f5fed513a0e9.jpg" alt="Ароматный кофе" class="coffee-image">
+            </div>
+        </div>
+        <h1>Кофе — больше чем напиток,<br>это часть жизни</h1>
+        <p>Современный мир невозможно представить без кофе. Он давно перестал быть просто напитком — это элемент культуры, ритуал и способ общения. Чашка кофе объединяет: в уютных кофейнях встречаются друзья, деловые переговоры проходят легче, а творческие идеи рождаются быстрее.</p>
+        <div style="text-align: center;">
+            <a href="https://westcom.ru/blog/?utm_source=blog_email&utm_content=tsvetkov" class="cta-button">Перейти к Новостям</a>
+        </div>
+        <div class="product-showcase">
+            <img src="https://westcom.ru/themes/2024/img/cat/restoran.jpg" alt="Кофе-корнер" class="product-image">
+            <img src="https://westcom.ru/themes/2024/img/cat/coffee.jpg" alt="Кофейная тумба" class="product-image">
+        </div>
+        <h2>Кофе с комфортом: красиво, быстро, вкусно</h2>
+        <p>Отличный способ начать день с удовольствием — взять свежесваренный кофе в <span class="highlight">кофейне самообслуживания</span>. Мы создаем стильные, эргономичные и функциональные корпуса для таких кофейных точек. Выбирайте любимый напиток — даже в свою кружку!</p>
+        <img src="https://westcom.ru/themes/2024/img/logo.png" alt="Logo" class="logo">
+        <h2>WESTCOM</h2>
+        <p>Компания Westcom работает на рынке производства торгового и выставочного оборудования с 1994 года.<br>
+            Кроме того, мы предлагаем нашим клиентам разнообразную офисную и гостиничную мебель.</p>
+            <img src="https://westcom.ru/upload/images/kassy.jpg" alt="Logo" class="imgpromo">    
+        <p>Westcom предоставляет каждому клиенту комплекс услуг, направленных на решение существующих задач:</p>
+        <div class="feature-item"><strong>Проведение замеров</strong></div>
+        <div class="feature-item"><strong>Изготовление дизайн-проекта</strong></div>
+        <div class="feature-item"><strong>Доставка и разгрузка</strong></div>
+        <div class="feature-item"><strong>Упаковка деталей из стекла</strong></div>
+        <div class="feature-item"><strong>Сборка</strong></div>
+        
+        <h2>Наши решения</h2>        
+        <div class="features">
+            <div class="feature-item"><strong>Эстетика и стиль</strong> — гармонично впишутся в любой интерьер.</div>
+            <div class="feature-item"><strong>Удобство и функциональность</strong> — встроенные держатели для стаканчиков, дозаторы, удобная зона приготовления.</div>
+            <div class="feature-item"><strong>Индивидуальные решения</strong> — подберем цвет, дизайн и вариант под ваш бюджет.</div>
+        </div>
+        <div style="text-align: center;">
+            <a href="https://westcom.ru/vyzov_zamershika/free/?utm_source=zamer-free-email&utm_content=tsvetkov" class="cta-button">Узнать подробнее</a>
+        </div>
+        <div class="footer">
+            <p>© 2025 Westcom. Все права защищены.</p>
+            <p>
+                <a href="https://westcom.ru/?utm_source=html-mail&utm_content=tsvetkov" style="color: #6F4E37;">Наш сайт</a> | 
+                <a href="tel:+78003010266" style="color: #6F4E37;">+7 (800) 301-02-66</a> | 
+                <a href="mailto:info@westcom.ru" style="color: #6F4E37;">info@westcom.ru</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
