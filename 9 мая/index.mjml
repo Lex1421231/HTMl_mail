@@ -9,7 +9,7 @@
   <mj-body>
     <mj-section background-size="cover" background-color="linear-gradient(rgba(0, 0, 0, 0.81),rgb(190, 7, 7))" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="40px">
       <mj-column padding="0">
-        <mj-image align="center" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/%E2%80%94Pngtree%E2%80%94may%209%20victory%20day%20order_7423975.png?raw=true" width="300px"></mj-image>
+        <mj-image align="center" padding="0px" src="https://github.com/Lex1421231/Westcom/blob/main/victory.png?raw=true" width="300px"></mj-image>
         <mj-spacer height="30px"></mj-spacer>
         <mj-text align="center" color="rgb(255, 0, 0)" font-size="50px" line-height="1.1" padding="0px">
           <strong>80 лет<br />ВЕЛИКОЙ ПОБЕДЫ</strong>
